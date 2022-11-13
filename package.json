@@ -7,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": {
-    "name":"Eric Justin Chukwuma",
-    "age":27,
-    "contact":"+2348072255872"
-  },
+  "author": "Eric Justin",
   "license": "ISC"
 }
