@@ -1,12 +1,20 @@
 {
   "name": "myfolder",
   "version": "1.0.0",
-  "author":"Eric Justin Chukwuma",
+  "author": "Eric Justin Chukwuma",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikhailEric/freecodecamp-repo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MikhailEric/freecodecamp-repo/issues"
+  },
+  "homepage": "https://github.com/MikhailEric/freecodecamp-repo#readme"
 }
