@@ -1,0 +1,16 @@
+{
+  "name": "myfolder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name":"Eric Justin Chukwuma",
+    "age":27,
+    "contact":"+2348072255872"
+  },
+  "license": "ISC"
+}
