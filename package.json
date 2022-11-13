@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MikhailEric/freecodecamp-repo/issues"
   },
-  "homepage": "https://github.com/MikhailEric/freecodecamp-repo#readme"
+  "homepage": "https://github.com/MikhailEric/freecodecamp-repo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
